@@ -1,6 +1,7 @@
 .navbar-brand {
   padding: 12px;
 }
+
 .nav-fix {margin: 0;
   padding: 0px}
 
@@ -17,11 +18,15 @@
     padding: 10px;
 }
 
-.vis-pics {
-  display: inline-block;
+.better-grid {
+  margin-bottom: 15px;
+}
+
+.vis-pics {  
   width: 100%;
   height: 90%;
   padding: 10px;
+  margin-bottom: 10px;
 }
 
 .subtitle {
