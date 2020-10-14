@@ -1,7 +1,7 @@
 # Web-Design-Challenge
 
 ## Website deployed at:
-[https://jaywalkerdrew.github.io/Web-Design-Challenge/WebVisualizations/index.html](https://jaywalkerdrew.github.io/Web-Design-Challenge/WebVisualizations/index.html)
+https://jaywalkerdrew.github.io/Web-Design-Challenge/WebVisualizations/index.html
 
 ### Website Requirements
 The website must consist of 7 pages total, including:
